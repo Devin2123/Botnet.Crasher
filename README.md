@@ -1,2 +1,3 @@
-# Botnet.Crasher
-Crash servers on COD
+https://www.youtube.com/watch?v=VsA9rCsc3KQ
+
+Educational Purposes only ofcourse.
